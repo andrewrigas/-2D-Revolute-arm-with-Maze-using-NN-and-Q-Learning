@@ -1,1 +1,1 @@
-# -2D-Revolute-arm-with-Maze-using-NN-and-Q-Learning
+# 2D Revolute arm with Maze Using NN and Q-Learning
